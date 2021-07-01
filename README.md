@@ -16,4 +16,4 @@ Optifine Source - https://optifinesource.co.uk/
 Discord RPC - https://github.com/Vatuu/discord-rpc/releases/download/1.6.2/discord-rpc.jar
 
 # Credit 
-Slightly Modified Version of Eric Golde's PVP Tutorial https://www.youtube.com/channel/UCDO0hEkGSvujLnb3cZb0XCA
+> Slightly Modified Version of Eric Golde's PVP Tutorial https://www.youtube.com/channel/UCDO0hEkGSvujLnb3cZb0XCA
