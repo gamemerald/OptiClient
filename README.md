@@ -12,8 +12,8 @@ Version 1.0 (Latest) - Optifine / Discord Rich Presents
 The zip file includes the json and natives folder so all you have to do is drag the file in the versions folder!
 
 # Libraries
-Optifine Source - https://optifinesource.co.uk/
-Discord RPC - https://github.com/Vatuu/discord-rpc/releases/download/1.6.2/discord-rpc.jar
+- Optifine Source - https://optifinesource.co.uk/
+- Discord RPC - https://github.com/Vatuu/discord-rpc/releases/download/1.6.2/discord-rpc.jar
 
 # Credit 
 > Slightly Modified Version of Eric Golde's PVP Tutorial https://www.youtube.com/channel/UCDO0hEkGSvujLnb3cZb0XCA
