@@ -10,6 +10,7 @@ Version 1.0 (Latest) - Optifine / Discord Rich Presents
 
 # How to install 
 The zip file includes the json and natives folder so all you have to do is drag the file in the versions folder!
+Zip: https://github.com/gamemerald/OptiClient/releases/download/v1.0-alpha/1.8.9-OptiClient.zip
 
 # Libraries
 - Optifine Source - https://optifinesource.co.uk/
